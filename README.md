@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of jjandxa/flarum-ext-chinese-search.** Not for installation: use [Packagist](https://packagist.org/packages/jjandxa/flarum-ext-chinese-search) or the [upstream repository](https://github.com/jjandxa/flarum-ext-chinese-search).
 
-**0** versions archived · Latest: [`0.0.11`](https://github.com/flarchive/jjandxa-flarum-ext-chinese-search/tree/archive/v0.0.11) · License: `apache-2.0` · Flarum: `^0.1.0-beta.15`
+**11** versions archived · Latest: [`0.0.11`](https://github.com/flarchive/jjandxa-flarum-ext-chinese-search/tree/archive/v0.0.11) · License: `apache-2.0` · Flarum: `^0.1.0-beta.15`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2017-10-15 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/jjandxa-flarum-ext-chinese-search/tree/archive/v0.0.1) |
+| `0.0.10` | 2021-01-14 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/jjandxa-flarum-ext-chinese-search/tree/archive/v0.0.10) |
+| `0.0.11` | 2021-01-22 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/jjandxa-flarum-ext-chinese-search/tree/archive/v0.0.11) |
+| `0.0.2` | 2017-10-15 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/jjandxa-flarum-ext-chinese-search/tree/archive/v0.0.2) |
+| `0.0.3` | 2017-10-17 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/jjandxa-flarum-ext-chinese-search/tree/archive/v0.0.3) |
+| `0.0.4` | 2018-08-11 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/jjandxa-flarum-ext-chinese-search/tree/archive/v0.0.4) |
+| `0.0.5` | 2018-08-12 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/jjandxa-flarum-ext-chinese-search/tree/archive/v0.0.5) |
+| `0.0.6` | 2018-08-12 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/jjandxa-flarum-ext-chinese-search/tree/archive/v0.0.6) |
+| `0.0.7` | 2018-08-12 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/jjandxa-flarum-ext-chinese-search/tree/archive/v0.0.7) |
+| `0.0.8` | 2019-01-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/jjandxa-flarum-ext-chinese-search/tree/archive/v0.0.8) |
+
+[View all 11 versions](https://github.com/flarchive/jjandxa-flarum-ext-chinese-search/tags)
 
 Catalog entry: [packages/jjandxa-flarum-ext-chinese-search.json](https://github.com/flarchive/archive-index/blob/main/packages/jjandxa-flarum-ext-chinese-search.json)
 
